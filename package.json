@@ -2,7 +2,7 @@
   "name": "promises",
   "version": "1.0.0",
   "description": "Promises [![Build status](https://ci.appveyor.com/api/projects/status/o8asg7w2pdlerrsj/branch/master?svg=true)](https://ci.appveyor.com/project/Pavel-A-T/promises/branch/master)",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
     "build": "webpack --mode production",

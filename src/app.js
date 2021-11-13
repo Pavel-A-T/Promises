@@ -1,9 +1,10 @@
-import GameSavingLoader from './gameSavingLoader';
-
-GameSavingLoader.load().then(() => {
-  // saving объект класса GameSaving
-  // const result = {id, created, userInfo} = saving;
-  // resolve(result);
-// }, (error) => {
-  // ...
-});
+// import GameSavingLoader from './gameSavingLoader';
+//
+// const gameSavingLoad = new GameSavingLoader().load(data);
+//
+// export default gameSavingLoad.then(() => {
+//   // saving объект класса GameSaving
+//   resolve((result) => {
+//     localStorage.setItem('GameSavingLoader', result);
+//   });
+// });
